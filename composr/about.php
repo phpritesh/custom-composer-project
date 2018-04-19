@@ -12,7 +12,7 @@ $image = array(
 );
 
 $var1 = "test";
-$var2 = "test";
+$var2 = "testssssssssssssssss";
 
 
 // detect face
