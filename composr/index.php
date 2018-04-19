@@ -15,6 +15,8 @@ $var1 = "test";
 $var2 = "test";
 $var3 = "test";
 $var4 = "test";
+$var5 = "test1";
+$var6 = "test1";
 
 // detect face
 $face = new FaceDetection1($image);
