@@ -10,7 +10,8 @@ require_once __DIR__ . '/vendor/autoload.php';
 $image = array(
 	'url' => 'http://img2.timeinc.net/people/i/2014/database/140831/justin-bieber-300.jpg',
 );
-
+$var1 = "test";
+$var2 = "test";
 // detect face
 $face = new FaceDetection1($image);
 $face->analyzeAll()->getFaces();
